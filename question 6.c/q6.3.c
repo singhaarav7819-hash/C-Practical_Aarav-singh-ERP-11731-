@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
     //Practical 6 : Q.3.ATM Pin Authentication//
+    //aarav singh erp 11731//
     int pin;
     int attempts=0;
     const int correct_pin = 1234;
@@ -22,3 +23,7 @@ int main(){
     }
     return 0;
 }
+/*enter your 4-digit ATM Pin :123
+Pin is incorrect. Attempts left : 2
+enter your 4-digit ATM Pin :1234
+Pin is correct. Access granted.*/

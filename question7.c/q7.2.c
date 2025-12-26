@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
     //Practical 7 : Q.2.Hourglass of length 2n-1//
+    // aarav singh erp 11731 //
     int n;
     scanf("%d",&n);
     for(int i=n;i>=1;i--){
@@ -23,3 +24,13 @@ int main(){
     }
     return 0;
 }
+/*5
+*********
+ *******
+  *****
+   ***
+    *
+   ***
+  *****
+ *******
+**********/

@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
     //Practical 7: Q.3.pattern//
+    // aarav singh erp 11731 //
     int n;
     scanf("%d",&n);
     char ch='A';
@@ -14,3 +15,9 @@ int main(){
     }
     return 0;
 }
+/*5
+A
+AB
+ABC
+ABCD
+ABCDE*/

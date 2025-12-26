@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    // aarav singh ,erp-11731//
     // Practical 6 : Q.1. print numbers from a to b using loops.// 
     int a;
     printf("enter number a:");
@@ -14,3 +15,7 @@ int main(){
     return 0;
 
 }
+/*
+enter number a:6
+enter number b:8
+numbers from 6 to 8 is 6 7 8  */
